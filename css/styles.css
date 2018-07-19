@@ -76,12 +76,14 @@ p {
   .home-jumbotron {
     min-height: (100vh - 50px);
   }
+}
 
 /* MD SCREEN */
 @media (min-width: 992px) {
   .home-jumbotron {
     text-align: left;
   }
+}
 .home-jumbotron-left {
   text-align: left;
 }
